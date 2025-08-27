@@ -12,7 +12,7 @@
 # <div align="center">
   <h1>Contato:</h1>
   <a href="mailto:ehcs.business@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"></a>
-  <a href="www.linkedin.com/in/eduardo-hoffmann-do-carmo-silva-ba4635280" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://www.linkedin.com/in/eduardo-hoffmann-do-carmo-silva-ba4635280" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
 </div>
 
 # <div align="center">
