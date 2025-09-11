@@ -8,6 +8,7 @@
   <h1>Contato:</h1>
   <a href="mailto:ehcs.business@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>
   <a href="https://www.linkedin.com/in/eduardo-hoffmann-do-carmo-silva-ba4635280"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://gitlab.com/EduHoff"><img src="https://skillicons.dev/icons?i=gitlab"></a>
 </div>
 
 # <div align="center">
