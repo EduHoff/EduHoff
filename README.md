@@ -14,7 +14,7 @@
 # <div align="center">
   <h1>Habilidades:</h1>
   
-  [![My Skills](https://skillicons.dev/icons?i=linux,java,c,cpp,python&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,java,c,cpp,rust&theme=dark)](https://skillicons.dev)
 </div>
 
 
