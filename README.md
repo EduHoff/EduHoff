@@ -12,7 +12,7 @@
 </div>
 
 # <div align="center">
-  <h1>Habilidades:</h1>
+  <h1>Interesses:</h1>
   
   [![My Skills](https://skillicons.dev/icons?i=linux,rust,c,cpp,java,python&theme=dark)](https://skillicons.dev)
 </div>
