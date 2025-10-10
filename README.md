@@ -17,7 +17,8 @@
   [![My Skills](https://skillicons.dev/icons?i=linux,rust,c,cpp,java,python&theme=dark)](https://skillicons.dev)
 </div>
 
-
 <!--https://github.com/anuraghazra/github-readme-stats-->
-<!--https://shields.io/
-https://img.shields.io/badge/<TEXTO>-<COR>?style=for-the-badge&logo=<LOGO>&logoColor=<COR_LOGO>-->
+<!--
+https://shields.io/
+https://img.shields.io/badge/<TEXTO>-<COR>?style=for-the-badge&logo=<LOGO>&logoColor=<COR_LOGO>
+-->
