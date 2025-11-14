@@ -14,7 +14,7 @@
 # <div align="center">
   <h1>Interesses:</h1>
   
-  [![My Skills](https://skillicons.dev/icons?i=linux,rust,c,cpp,java,python&theme=dark)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,docker,c,cpp,rust,python,java,&theme=dark)](https://skillicons.dev)
 </div>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
