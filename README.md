@@ -1,6 +1,6 @@
 <div align="center">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=EduHoff&show_icons=true&theme=dark"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduHoff&layout=compact&theme=dark&hide=html,css"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduHoff&layout=compact&theme=dark&hide=html,css,jupyter%20notebook"/>
   <img align="center" height="150em" src="https://streak-stats.demolab.com?user=EduHoff&locale=pt-br&mode=daily&theme=dark" alt="GitHub Streak" />
 </div>
 
